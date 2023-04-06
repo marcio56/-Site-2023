@@ -258,7 +258,7 @@ footer#rodape a:hover {
 }
 
 @media(max-width: 800px){
-	na#menu h1{
+	aside#lateral {
 		min-width: 100;
 	}
 }
