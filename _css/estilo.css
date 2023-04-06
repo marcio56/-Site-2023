@@ -97,7 +97,7 @@ figure.foto-legenda:hover figcaption {
 
 /* Formatação do menu */
 nav#meu {
-	display: block;
+	display: flex	;
 }
 
 nav#menu ul {
@@ -255,4 +255,10 @@ footer#rodape a {
 
 footer#rodape a:hover {
 	color: blue;
+}
+
+@media(max-width: 800px){
+	na#meu{
+		min-width: 100;
+	}
 }
