@@ -263,7 +263,7 @@ footer#rodape a:hover {
 	}
 }
 
-aside#lateral{
+section#corpo{
 	display: flex;
 	flex-direction: column;
 	width: 100%
