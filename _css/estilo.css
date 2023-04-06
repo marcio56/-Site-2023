@@ -262,9 +262,3 @@ footer#rodape a:hover {
 		min-width: 100;
 	}
 }
-
-section#corpo{
-	display: flex;
-	flex-direction: column;
-	width: 100%
-}
