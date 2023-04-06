@@ -256,9 +256,3 @@ footer#rodape a {
 footer#rodape a:hover {
 	color: blue;
 }
-
-@media(max-width: 800px){
-	aside#lateral {
-		min-width: 100;
-	}
-}
