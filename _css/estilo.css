@@ -124,7 +124,7 @@ nav#menu li:hover {
 }
 
 nav#menu h1 {
-	display: flex;
+	display: none;
 }
 
 nav#menu a {
@@ -261,4 +261,10 @@ footer#rodape a:hover {
 	na#menu h1{
 		min-width: 100;
 	}
+}
+
+aside#lateral{
+	display: flex;
+	flex-direction: column;
+	width: 100%
 }
