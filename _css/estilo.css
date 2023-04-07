@@ -18,12 +18,12 @@ div#interface {
 	background-color: #ffffff;
 	margin: -20px auto 10px auto;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
-	padding: 10px;
+	padding: 20px;
 }
 
 p {
 	text-align: justify; 
-	text-indent: 8px;
+	text-indent: 9px;
 }
 
 a {
@@ -55,7 +55,7 @@ header#cabecalho h1 {
 	color: #606060;
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, .6);
 	padding: 10px;
-	margin-bottom: 0px;
+	margin-bottom: 5px;
 }
 
 header#cabecalho h2 {
